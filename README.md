@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any intriguing projects and opportunities.**
 
-- 👨‍💻 All of my projects are available at [chrisvinsonk.github.io](chrisvinsonk.github.io)
+- 👨‍💻 View my portfolio page at [chrisvinsonk.github.io](https://chrisvinsonk.github.io/)
 
 - 📫 How to reach me **chrisvinsonk@gmail.com**
 
