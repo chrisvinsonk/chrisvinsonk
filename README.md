@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chrisvinsonk@gmail.com**
 
-- 📄 Get my resume at [https://drive.google.com/file/d/1Z4NVDw-YosKrQXhVBVo_1nQTE0JizrX3/view](https://drive.google.com/file/d/1Z4NVDw-YosKrQXhVBVo_1nQTE0JizrX3/view)
+- 📄 Get my resume at [https://github.com/chrisvinsonk/resume/blob/main/Chris_Resume.pdf](https://github.com/chrisvinsonk/resume/blob/main/Chris_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
